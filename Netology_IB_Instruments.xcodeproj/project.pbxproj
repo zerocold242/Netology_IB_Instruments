@@ -14,6 +14,7 @@
 		5C9F6A9627DE25FD00053F45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C9F6A9527DE25FD00053F45 /* Assets.xcassets */; };
 		5C9F6A9927DE25FD00053F45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C9F6A9727DE25FD00053F45 /* LaunchScreen.storyboard */; };
 		5C9F6AA127DE291E00053F45 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5C9F6AA027DE291E00053F45 /* ProfileView.xib */; };
+		5C9F6AA327DE2D8800053F45 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9F6AA227DE2D8800053F45 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5C9F6A9827DE25FD00053F45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C9F6A9A27DE25FD00053F45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C9F6AA027DE291E00053F45 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
+		5C9F6AA227DE2D8800053F45 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5C9F6A9727DE25FD00053F45 /* LaunchScreen.storyboard */,
 				5C9F6A9A27DE25FD00053F45 /* Info.plist */,
 				5C9F6AA027DE291E00053F45 /* ProfileView.xib */,
+				5C9F6AA227DE2D8800053F45 /* ProfileView.swift */,
 			);
 			path = Netology_IB_Instruments;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C9F6AA327DE2D8800053F45 /* ProfileView.swift in Sources */,
 				5C9F6A9127DE25FC00053F45 /* ViewController.swift in Sources */,
 				5C9F6A8D27DE25FC00053F45 /* AppDelegate.swift in Sources */,
 				5C9F6A8F27DE25FC00053F45 /* SceneDelegate.swift in Sources */,
